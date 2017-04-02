@@ -426,6 +426,9 @@ section.form {
 		display: inline-block;
 		float: left;
 	}
+	.intro-section {
+		height: 513px;
+	}
 }
 @media (max-width: 540px) { 
 	.about-us .col-4{
@@ -435,6 +438,9 @@ section.form {
 	}
 	.btn-intro {	
 		margin-top: 0;
+	}
+	.intro-section {
+		height: 513px;
 	}
 }
 @media (max-width: 460px) {
